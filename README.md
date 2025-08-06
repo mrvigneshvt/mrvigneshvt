@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Cloud X](https://github.com/mrvigneshvt/cloudx)
 
-- 🌱 I’m currently learning **c++**
+- 🌱 I’m currently learning **Rust**
 
 - 📫 How to reach me **mrvigneshvt@gmail.com**
 
